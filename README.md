@@ -1,6 +1,3 @@
-# vickysalamea.github.io
-My personal portfolio
-
 # Bienvenidos a mi repositorio!
 
 ## Descripción
